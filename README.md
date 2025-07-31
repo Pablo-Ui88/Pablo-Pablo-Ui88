@@ -24,5 +24,5 @@
 
 # Celular
 "+57 3004213270"           
-![image]([https://i.pinimg.com/originals/.../image.jpg](https://pin.it/4lYJisKy2))
+![Leon De Fu](https://i.pinimg.com/736x/dc/4d/01/dc4d0132c0ee4d6dc9e9950a44ad2125.jpg)
   
