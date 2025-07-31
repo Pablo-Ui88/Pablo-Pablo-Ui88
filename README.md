@@ -12,9 +12,9 @@
 # Lenguajes de programación
 
 *HTML  
-*CSS 
+*CSS   
 *JS  
-*C++   
+*C++     
 *JAVA  
 *Python  
 *MySQL  
