@@ -16,10 +16,10 @@
 
   # Contactame  
    
- #"Instagram"
-   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)   
+ # Instagram 
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com)   
 
-#"Celular"
-"3004213270"   
-!["|||"](URL "[Leon De Fu](https://pin.it/1Lt5dSC1R)")
+# Celular
+"+57 3004213270"           
+![Leon De Fu]([https://i.pinimg.com/originals/.../image.jpg](https://pin.it/4lYJisKy2))
   
