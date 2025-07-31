@@ -3,6 +3,9 @@
 
 > **El Objeto mas noble del ser humano , es ilustrar a su projimo**
 
+
+# Lenguajes de programación
+
 *HTML  
 *CSS 
 *JS  
@@ -21,5 +24,5 @@
 
 # Celular
 "+57 3004213270"           
-![Leon De Fu]([https://i.pinimg.com/originals/.../image.jpg](https://pin.it/4lYJisKy2))
+![image]([https://i.pinimg.com/originals/.../image.jpg](https://pin.it/4lYJisKy2))
   
